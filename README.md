@@ -1,6 +1,17 @@
-| Name | Points | 
-|----------|----------|----------|
-| Mudabbir    |  0   |
-| Adil   |  0   | 
-| Noor    |  0   |
-| Amjad    |  0   | 
+# Project Title
+
+Description of the project.
+
+## Name and Points Table
+
+| Name      | Points |
+|-----------|--------|
+| Alice     | 10     |
+| Bob       | 15     |
+| Charlie   | 20     |
+| Diana     | 25     |
+
+## Other Sections
+
+Additional content for your README file.
+

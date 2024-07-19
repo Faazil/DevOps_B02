@@ -9,7 +9,7 @@ Description of the project.
 | Adil     |      |
 | Mudabbir       |      |
 | Amjad   |      |
-| Noor     |      |
+| Noor     |   1   |
 
 ## Other Sections
 

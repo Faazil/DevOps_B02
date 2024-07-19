@@ -7,7 +7,7 @@ Description of the project.
 | Name      | Points |
 |-----------|--------|
 | Adil     |      |
-| Mudabbir    1   |      |
+| Mudabbir       |   1   |
 | Amjad   |      |
 | Noor     |   1   |
 

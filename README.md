@@ -6,10 +6,10 @@ Description of the project.
 
 | Name      | Points |
 |-----------|--------|
-| Alice     | 10     |
-| Bob       | 15     |
-| Charlie   | 20     |
-| Diana     | 25     |
+| Adil     |      |
+| Mudabbir       |      |
+| Amjad   |      |
+| Noor     |      |
 
 ## Other Sections
 

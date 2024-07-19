@@ -1,4 +1,4 @@
-# Project Title
+# DevOps Training
 
 Description of the project.
 
